@@ -2,15 +2,7 @@
   <a href="#spanish"><b>🇪🇸 ESPAÑOL</b></a> | <a href="#english"><b>🇺🇸 ENGLISH</b></a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <p align="center"> <img src="https://raw.githubusercontent.com/davidcepeda1/davidcepeda1/assets/banner.svg" width="100%"/> </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 <p align="center">
   <picture>
