@@ -13,9 +13,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Dev Quote" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gh_adaptive">
+    <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
+  </picture>
+</p>
 
 <h2 id="spanish">💫 Sobre Mí</h2> 
 
@@ -67,11 +71,19 @@ I don’t just write code; I design experiences with soul. My transition from me
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=holi&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=holi&hide_border=true">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=github-light&hide_border=true&area=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=tokyonight&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=holi&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=tokyonight&hide_border=true&area=true" width="100%" alt="David's Activity Graph" />
+  </picture>
 </p>
 
 ## 💰 Donations
