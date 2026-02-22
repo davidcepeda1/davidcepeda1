@@ -1,0 +1,26 @@
+name: Deploy Artistic Assets
+
+on:
+  push:
+    paths:
+      - 'images/**' 
+    branches:
+      - main
+  workflow_dispatch: 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy to Assets Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: assets 
+          build_dir: images      
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
