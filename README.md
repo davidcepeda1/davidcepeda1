@@ -1,8 +1,12 @@
+<div align="center">
+
 [**🇪🇸 ESPAÑOL**](#spanish) | [**🇺🇸 ENGLISH**](#english)
 
 [![](https://raw.githubusercontent.com/davidcepeda1/davidcepeda1/assets/banner.jpg)](https://raw.githubusercontent.com/davidcepeda1/davidcepeda1/assets/banner.jpg)
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+</div>
 
 <a name="spanish"></a>
 ## 💫 Sobre Mí
@@ -25,6 +29,8 @@ Fullstack Developer with Mechatronics roots, studying Software Engineering at Un
 - ⚽ Outside of code: video editing, indie rock, and football analysis
 
 ---
+
+<div align="center">
 
 ## 🌐 Socials
 
@@ -52,6 +58,8 @@ Fullstack Developer with Mechatronics roots, studying Software Engineering at Un
 
 ## 📊 GitHub Stats
 
-![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=tokyonight&hide_border=true)
+[![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=tokyonight&hide_border=true)](https://github.com/davidcepeda1)
 
-![David's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=tokyonight&hide_border=true&area=true)
+[![David's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=tokyonight&hide_border=true&area=true)](https://github.com/davidcepeda1)
+
+</div>
