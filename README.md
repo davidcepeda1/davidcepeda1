@@ -58,8 +58,6 @@ Fullstack Developer with Mechatronics roots, studying Software Engineering at Un
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=davidcepeda1&theme=tokyonight&hide_border=true)](https://github.com/davidcepeda1)
-
 [![David's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidcepeda1&theme=tokyonight&hide_border=true&area=true)](https://github.com/davidcepeda1)
 
 </div>
